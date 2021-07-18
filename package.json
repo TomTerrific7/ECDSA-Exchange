@@ -11,5 +11,18 @@
     "crypto-js": "^4.0.0",
     "elliptic": "^6.5.4",
     "express": "^4.17.1"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomTerrific7/ECDSA-Exchange.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/TomTerrific7/ECDSA-Exchange/issues"
+  },
+  "homepage": "https://github.com/TomTerrific7/ECDSA-Exchange#readme",
+  "description": ""
 }
